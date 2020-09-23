@@ -6,7 +6,10 @@
   * aanpassen voorbeeld php : 1 uur.
   * aanpassen presentaties : 1,5 uur.
   * opmaken oefeningen : 0,5 uur.
-* Nakijken Xampp installatie : 0,5 uur.
+* Aanvraag domein Combell : 0,5 uur.
+* Configuratie domein, databank, ftp user : 0,25 uur
+* Test databank met phpMyAdmin : 0,25uur
+* Eeste script php : ...
 
 ## Week 2 - 5,5 uur
 * Voorbereiding REST API : 2 uur.
